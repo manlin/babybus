@@ -1,0 +1,1 @@
+export const EP_BABYBUS_HOST = 'http://wx-xcx-tools.amijiaoyu.com';
